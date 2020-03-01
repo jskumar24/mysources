@@ -1,0 +1,11 @@
+{
+	"listOfResourceTypesNotAllowed": {
+		"value": [
+			"Microsoft.BizTalkServices/BizTalk",
+			"Microsoft.Blockchain/blockchainMembers",
+			"Microsoft.Blockchain/locations",
+			"Microsoft.Blockchain/locations/blockchainMemberOperationResults",
+			"Microsoft.Blockchain/locations/checkNameAvailability"
+		]
+	}
+}

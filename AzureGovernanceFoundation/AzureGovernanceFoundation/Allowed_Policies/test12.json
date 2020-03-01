@@ -1,0 +1,22 @@
+{
+    "listOfResourceTypesNotAllowed": {
+    "value": [
+    "84codes.CloudAMQP/servers",
+    "84codes.CloudAMQP/operations",
+    "84codes.CloudAMQP/listCommunicationPreference",
+    "84codes.CloudAMQP/updateCommunicationPreference",
+    "CloudSimple.PrivateCloudIaaS/virtualMachines",
+    "CloudSimple.PrivateCloudIaaS/locations",
+    "CloudSimple.PrivateCloudIaaS/locations/privateClouds",
+    "CloudSimple.PrivateCloudIaaS/locations/privateClouds/virtualNetworks",
+    "CloudSimple.PrivateCloudIaaS/locations/privateClouds/virtualMachineTemplates",
+    "CloudSimple.PrivateCloudIaaS/locations/privateClouds/resourcePools",
+    "CloudSimple.PrivateCloudIaaS/virtualNetworks",
+    "CloudSimple.PrivateCloudIaaS/virtualMachineTemplates",
+    "CloudSimple.PrivateCloudIaaS/resourcePools",
+    "CloudSimple.PrivateCloudIaaS/operations",
+    "CloudSimple.PrivateCloudIaaS/locations/operationresults",
+    "CloudSimple.PrivateCloudIaaS/operationresults"
+]
+}
+}
